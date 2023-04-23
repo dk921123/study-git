@@ -1,0 +1,6 @@
+test vim
+i = insert
+:q = exit
+:q! = direct exit
+:wq = write exit
+Esc = insert exit
