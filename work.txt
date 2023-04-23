@@ -4,6 +4,9 @@ test code 1
 hello git
 
 test code 2
-not pull 
+Hello I'm dev
+
+test code 3
+Hello I'm master
 
 
