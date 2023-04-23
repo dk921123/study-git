@@ -11,3 +11,6 @@ Hello I'm master
 
 test code 4
 check log
+
+test code 5
+rebase & cherry-pick
