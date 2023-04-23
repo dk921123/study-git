@@ -4,10 +4,4 @@ test code 1
 hello i'm dev
 
 test code 2
----------test conflict
-test pull request
-
-test code 3
-test conflict
-
-
+test pull request 
